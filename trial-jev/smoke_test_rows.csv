@@ -1,0 +1,32 @@
+annotation_id,patient_id,trial_id,criterion_type,criterion_text,expert_eligibility,gpt4,gpt4_correct,jev,jev_confidence,jev_correct
+0,sigir-20141,NCT01397994,inclusion,Patients of chronic stable angina with abnormal Exercise Myocardial Perfusion Spect Scan with reversible and partially reversible ischemic changes.,not enough information,not enough information,True,not included,0.34,False
+1,sigir-20141,NCT01397994,inclusion,Male and female,included,included,True,included,0.99,True
+2,sigir-20141,NCT01397994,inclusion,Age 25 to 65 years,included,included,True,included,1.0,True
+3,sigir-20141,NCT01397994,inclusion,"Patient must understand and be willing, able and likely to comply with all study procedures and restrictions and comprehends the diary cards.",included,included,True,included,0.67,True
+4,sigir-20141,NCT01397994,inclusion,Patient must be able to give voluntary written informed consent.,included,included,True,included,0.96,True
+5,sigir-20141,NCT01397994,exclusion,Hypertension of > 170/100 mm of Hg,not excluded,not excluded,True,not excluded,0.87,True
+6,sigir-20141,NCT01397994,exclusion,Valvular heart disease and cardiomyopathy,not excluded,not excluded,True,not excluded,0.97,True
+7,sigir-20141,NCT01397994,exclusion,Myocardial infarction in < 6 months,not excluded,not excluded,True,not excluded,0.92,True
+8,sigir-20141,NCT01397994,exclusion,Unstable angina,not enough information,not enough information,True,excluded,0.92,False
+9,sigir-20141,NCT01397994,exclusion,Congestive cardiac failure,not excluded,not excluded,True,not excluded,0.99,True
+10,sigir-20141,NCT01397994,exclusion,Severe anemia (Hb 7G/dl),not excluded,not excluded,True,not excluded,0.95,True
+11,sigir-20141,NCT01397994,exclusion,Cardiac arrhythmias or II or III degree AV block,not excluded,not excluded,True,not excluded,0.97,True
+12,sigir-20141,NCT01397994,exclusion,Significant liver or renal dysfunction,not excluded,not excluded,True,not excluded,0.95,True
+13,sigir-20141,NCT01397994,exclusion,IDDM (Type-1 diabetes mellitus),not excluded,not excluded,True,not excluded,0.99,True
+14,sigir-20141,NCT01397994,exclusion,Systolic blood pressure < 100 mm Hg,not excluded,not excluded,True,not excluded,0.84,True
+15,sigir-20141,NCT01397994,exclusion,Pregnant and nursing women,not enough information,not enough information,True,not excluded,0.84,False
+16,sigir-20141,NCT01397994,exclusion,Known hypersensitivity to nicorandil,not excluded,not excluded,True,not excluded,0.98,True
+17,sigir-20141,NCT01397994,exclusion,On calcium channel blockers,not excluded,not excluded,True,not excluded,0.99,True
+18,sigir-20141,NCT01397994,exclusion,Patients not eligible for Tc 99m SPECT,not enough information,not enough information,True,not excluded,0.85,False
+19,sigir-20141,NCT01397994,exclusion,Patients in whom beta blockers are contraindicated,not enough information,not enough information,True,not excluded,0.98,False
+20,sigir-20141,NCT01397994,exclusion,Geographical inaccessibility for treatment or follow-up evaluations,not excluded,not enough information,False,not excluded,0.92,True
+21,sigir-20141,NCT00149227,inclusion,Clinical diagnosis of hypertension,included,included,True,included,0.98,True
+22,sigir-20141,NCT00149227,inclusion,"Clinical diagnosis of one or more risk factors, such as diabetes, smoking habit, lipid metabolism abnormality, history of ischemic heart disease (IHD) or cerebrovascular disease, obesity (BMI>25), chronic heart failure (NYHA II-III), and electrocardiogram (ECG) abnormality (LVH)",included,included,True,included,0.94,True
+23,sigir-20141,NCT00149227,exclusion,Patients who have already been administered ARB,not excluded,not excluded,True,not excluded,1.0,True
+24,sigir-20141,NCT00149227,exclusion,"Patients with IHD within 6 months after percutaneous coronary intervention(PCI), and who are stable but are going to implement PCI or coronary artery bypass grafting(CABG)",not applicable,not applicable,True,not applicable,0.41,True
+25,sigir-20141,NCT00149227,exclusion,Severe/malignant/secondary hypertensive patients,not excluded,not enough information,False,not excluded,0.93,True
+26,sigir-20141,NCT00149227,exclusion,Pregnant women and women of childbearing potential,not enough information,not excluded,False,not excluded,0.7,False
+27,sigir-20141,NCT00149227,exclusion,"History of heart failure, unstable angina, myocardial infarction, PTCA, or CABG within the preceding 6 months",not excluded,not excluded,True,not excluded,0.61,True
+28,sigir-20141,NCT00149227,exclusion,"Arrhythmia needed to be treated or accompanied with symptoms, second or third degree AV block",not excluded,not excluded,True,not excluded,0.83,True
+29,sigir-20141,NCT00149227,exclusion,Severe renal impairment (Serum creatinine >3.0 mg/dl),not excluded,not enough information,False,not excluded,0.93,True
+30,sigir-20141,NCT00149227,exclusion,"Severe hepatic impairment (Hepatic failure, Cirrhosis, etc.)",not excluded,not excluded,True,not excluded,0.98,True

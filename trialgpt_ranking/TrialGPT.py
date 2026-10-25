@@ -9,11 +9,9 @@ from nltk.tokenize import sent_tokenize
 import time
 import os
 
-from openai import AzureOpenAI
+from openai import OpenAI
 
-client = AzureOpenAI(
-	api_version="2023-09-01-preview",
-	azure_endpoint=os.getenv("OPENAI_ENDPOINT"),
+client = OpenAI(
 	api_key=os.getenv("OPENAI_API_KEY"),
 )
 
